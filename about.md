@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hey there! I'm Cuong, nice to meet you.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I blog about anything I fall for, some stuff that I give a shit about it. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cuongmv162@gmail.com](mailto:cuongmv162@gmail.com)
