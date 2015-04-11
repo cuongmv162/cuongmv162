@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is bytecode?
+title: What is bytecode in Java?
 ---
 <p align="justify">Java bytecode is the instruction set of the Java virtual machine. Each bytecode is composed by one, or in some cases two, bytes that represent the instruction (opcode), along with zero or more bytes for passing parameters. Of the 256 possible byte-long opcodes, 198 are currently in use, 51 are reserved for future use, and 3 are set aside as permanently unimplemented.</p>
 
