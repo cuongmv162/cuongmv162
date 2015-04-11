@@ -14,8 +14,7 @@ Operand stack management (e.g. swap, dup2)
 Control transfer (e.g. ifeq, goto)
 Method invocation and return (e.g. invokespecial, areturn)
 
-<p align="justify">There are also a few instructions for a number of more specialized tasks such as exception throwing, synchronization, etc.</p>
-<p align="justify">Many instructions have prefixes and/or suffixes referring to the types of operands they operate on. These are as follows:</p>
+<p align="justify">There are also a few instructions for a number of more specialized tasks such as exception throwing, synchronization, etc. Many instructions have prefixes and/or suffixes referring to the types of operands they operate on. These are as follows:</p>
 Prefix/Suffix	Operand Type
 i	integer
 l	long
